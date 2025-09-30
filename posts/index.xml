@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>https://bcunh.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- 0.150.0</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Sep 2025 14:09:04 +0300</lastBuildDate>
-    <atom:link href="https://bcunh.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anotherpage</title>
-      <link>https://bcunh.github.io/posts/anotherpage/</link>
+      <link>http://localhost:1313/posts/anotherpage/</link>
       <pubDate>Mon, 29 Sep 2025 14:09:04 +0300</pubDate>
-      <guid>https://bcunh.github.io/posts/anotherpage/</guid>
+      <guid>http://localhost:1313/posts/anotherpage/</guid>
       <description>&lt;p&gt;This is another page with image and codeblock.&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;https://static.vecteezy.com/system/resources/previews/000/551/099/original/cartoon-sun-vector.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;codeblock:&lt;/p&gt;
@@ -21,9 +21,9 @@
     </item>
     <item>
       <title>Barbarasfirstpage</title>
-      <link>https://bcunh.github.io/posts/mypage/</link>
+      <link>http://localhost:1313/posts/mypage/</link>
       <pubDate>Mon, 29 Sep 2025 13:40:37 +0300</pubDate>
-      <guid>https://bcunh.github.io/posts/mypage/</guid>
+      <guid>http://localhost:1313/posts/mypage/</guid>
       <description>&lt;p&gt;Hii This is Barbaras first page made in Vilnius Tech Cloud Computing course.
 It&amp;rsquo;s really mice to be here.&lt;/p&gt;</description>
     </item>
